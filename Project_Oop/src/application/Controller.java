@@ -127,6 +127,5 @@ public class Controller {
     
     
     //ปุ่มกดส่งข้อมูลหน้ายูเซอร์1
-    public 
 }
 
